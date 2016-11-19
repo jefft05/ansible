@@ -1,0 +1,6 @@
+[web-vms]
+ans-web[01:02] disk='10' datastore='VM_storage' network='Inside' memory='4096' cpucount='1' osid='centos64Guest'
+
+[db-vms]
+
+ans-db[01:02] disk='10' datastore='VM_storage' network='inside' memory='4096' cpucount='1' osid='centos64Guest'
